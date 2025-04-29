@@ -70,7 +70,7 @@ return(T->left);
 T->ht=height(T); 
 return(T); 
 } 
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/04f85a85-6e30-49b5-8a77-3c24f543cbee)
 
